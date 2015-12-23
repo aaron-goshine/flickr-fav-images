@@ -1,0 +1,25 @@
+
+// Font weights
+$light: 100;
+$regular: 400;
+$bold: 600;
+
+// Base Font
+$base-font-family: sans-serif;
+$base-font-weight: $regular;
+$base-font-size: 13px;
+$base-line-height: 1.4;
+
+// Headings
+$header-font-weight: $bold;
+
+// colours
+$brand-color: #c0de11;
+$link-color: #00bed5;
+$wireframe-bg-color: whitesmoke;
+
+// break point
+$tablet_and_larger: 800px;
+$max-width: 820px;
+$min-width: 320px;
+$global-margin: 1em;
